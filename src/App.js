@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <WeatherEngine location="sydney,au" />
-      <WeatherEngine location="melbourne,au" />
     </div>
   );
 }
